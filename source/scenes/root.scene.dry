@@ -104,7 +104,7 @@ We've recorded your answer (4/4).
 - @results: Check your results.
 
 @results
-new-page: tru
+new-page: true
 
 display the results.
 
