@@ -1,11 +1,108 @@
-title: Root Scene
+title: Root 
 new-page: true
 
-This is the root scene of "Dendry-starter-pack". The root scene is normally used
-as a hub: the choices allow you to go to different sections of your
-story. In shorter works it may just function as the first scene in the
-game, sending the player off into the tree of choices. If the root
-scene doesn't have any choices that it can display, the game is over.
+This is a guide for those under the pain of life.
 
-# Scenes with a top tag can be displayed here.
-- #top
+Please fill out this questionnaire in order to view your personalized tips for overcoming your challenge.
+
+- @question1: Start.
+
+# -------------------
+
+@question1
+new-page: true
+
+Would you solve a problem directly and straighforwardly?
+- @yes1: Yes 
+- @no1: No 
+
+@yes1
+max-visits: 1
+
+We've recorded your answer (1/4). Please proceed to the next question.
+
+- @question2: Next.
+
+@no1
+max-visits: 1
+
+We've recorded your answer (1/4). Please proceed to the next question.
+
+- @question2: Next.
+
+# -------------------
+
+@question2
+new-page: true
+
+Would you be mean and hurt others if it achieves your (rightful) goal?
+- @yes2: Yes 
+- @no2: No 
+
+@yes2
+max-visits: 1
+
+We've recorded your answer (2/4). Please proceed to the next question.
+
+- @question3: Next.
+
+@no2
+max-visits: 1
+
+We've recorded your answer (2/4). Please proceed to the next question.
+
+- @question3: Next.
+
+# -------------------
+
+@question3
+new-page: true
+
+Would you dedicate your efforts towards making life happy for everyone?
+- @yes3: Yes 
+- @no3: No 
+
+@yes3
+max-visits: 1
+
+We've recorded your answer (3/4). Please proceed to the next question.
+
+- @question4: Next.
+
+@no3
+max-visits: 1
+
+We've recorded your answer (3/4). Please proceed to the next question.
+
+- @question4: Next.
+
+# -------------------
+
+@question4
+new-page: true
+
+Would you rather remove something from your life than add to it?
+- @yes4: Yes 
+- @no4: No 
+
+@yes4
+max-visits: 1
+
+We've recorded your answer (4/4). 
+
+- @results: Check your results.
+
+@no4
+max-visits: 1
+
+We've recorded your answer (4/4). 
+
+- @results: Check your results.
+
+@results
+new-page: tru
+
+display the results.
+
+# to be added
+
