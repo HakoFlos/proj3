@@ -13,6 +13,7 @@ Please fill out this questionnaire in order to view your personalized tips for o
 new-page: true
 
 Would you solve a problem directly and straighforwardly?
+
 - @yes1: Yes 
 - @no1: No 
 
@@ -36,6 +37,7 @@ We've recorded your answer (1/4). Please proceed to the next question.
 new-page: true
 
 Would you be mean and hurt others if it achieves your (rightful) goal?
+
 - @yes2: Yes 
 - @no2: No 
 
@@ -59,6 +61,7 @@ We've recorded your answer (2/4). Please proceed to the next question.
 new-page: true
 
 Would you dedicate your efforts towards making life happy for everyone?
+
 - @yes3: Yes 
 - @no3: No 
 
@@ -82,6 +85,7 @@ We've recorded your answer (3/4). Please proceed to the next question.
 new-page: true
 
 Would you rather remove something from your life than add to it?
+
 - @yes4: Yes 
 - @no4: No 
 
