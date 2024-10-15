@@ -7,6 +7,14 @@ This is a guide for those under the pain of life.
 
 Please fill out this questionnaire in order to view your personalized tips for overcoming your challenge.
 
+- @info: More information.
+
+@info
+new-page: false
+
+We will determine what you seek in life and in which way. You will get access to detailed results after you  
+finish answering. 
+
 - @question1: Start.
 
 # -------------------
@@ -111,4 +119,44 @@ new-page: true
 display the results.
 
 # to be added
+
+Four questions will likely not be enough to determine one's type accurately. Would you like to get access to   
+founding ideas behind this theory to better understand it or evaluate your type?
+
+- @ideas: Yes.
+- @results: No thanks. (You will go back to the results page.)
+
+@ideas
+new-page: true
+
+This is an idea under development. 
+
+I always had been interested in how to classify humans according to their desires. It seems like a realiable and
+fun way to characterize different personalities. I also added the way they prefer to attain the desires.
+
+Desires can be separated into escape and attain. Escape indicates people that would like to be liberated from 
+current pain. Somewhat similar to Noah's Ark. For people who want to get rid of the system and this world, and 
+start anew. Attain are for the ones who accept the system and its rules as it is, and do not aspire to subvert 
+it. Instead, they pursue success and confirmation within it.   
+
+Escape/Attain can be differentiated by indicating if one accepts the world as it is - if they want to *get* 
+something instead of *run away* from something.
+
+Desires can also be separated into group and individual. Group indicates people who would put in their limited 
+efforts for the 'greater good' of society. They wouldn't be satisfied or feel fulfilled if people around them 
+are suffering while their needs are being met. Individual are the ones who mainly care about themselves; they 
+feel safe and happy once their close loved ones and themselves are happy. 
+
+Group/Individual can be differentiated by indicating if a person prefers happiness for a group or for 
+themselves - if they feel safe in groups or alone. 
+
+The ways to pursue a certain desire can be classified into direct and indirect. For direct people, they face   
+the challenge and do not retreat from it, solving it in the brutest way possible; they are often stubborn. For
+indirect people, they have a tendency to retreat before challenges, and prefer to solve it in a more subtle way,
+one that is not noticeable to the common people.
+
+Direct/Indirect can be differentiated by indicating if one likes to take the direct route or some other path - 
+if their efforts are clear and noticeable from the outside.
+
+The ways to pursue a certain desire can also be classified into 
 
